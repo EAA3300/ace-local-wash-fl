@@ -21,7 +21,7 @@ This project is ready for GitHub and Cloudflare Pages.
 
 ## Current Business Values
 
-- Business number: `(941) 289-7281`
+- Business number: `undisclosed for now`
 - Service area: `West Bradenton, FL`
 - Domain: `acelocalwashfl.com`
 - Public packages: Exterior Wash, Wash + Wax, and Headlight Restoration add-on
